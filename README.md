@@ -54,8 +54,6 @@ Greetings! My name is Steven Tjayadi, and I'm excited to share my skill of devel
 
   
 # Other Project 
-- Machine Learning (Python)                       - Batik Image Classification
-- Machine Learning (Python)                       - Clustering the News
 - Power Automate - Approval Purchase Order Automation from Dynamic 365 Finance & Operations 
 - Dynamic 365 Finance & Operations (X++ & SQL) - Fixing Manufacturing Allocation (Metindo)
 - Dynamic 365 Finance & Operations (X++ & SQL) - Sales Contract Report Versioning (Citatah)
