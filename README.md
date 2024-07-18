@@ -31,14 +31,31 @@ Greetings! My name is Steven Tjayadi, and I'm excited to share my skill of devel
 - Tools : UiPath Studio, Python (TvExtract), Microsoft Excel, Microsoft SQL Server
 - Output : [Dosen Sinta](https://github.com/stevenkiryu/Portfolio-Steven-Tjayadi/assets/57402512/75ef6423-05a9-4007-a59d-642d2c238237)
 
+# Machine Learning - Batik Classification
 
+- This project use Machine Learning based on Computer Vision(images) dataset. This project I work together with Nathaniel Distianto and Kenny Dwi Cahya. This result use Google Colab notebook with the detail explanation of code and step-by-step with Bahasa Indonesia. 
 
+- Tools : Python, Google Colab, Gradient Boosting
+- Output : [Batik Classification](https://colab.research.google.com/drive/1k0z8XizGXNYBpuInOvGVEOioeRHtrq0K)
+
+# Machine Learning - Clustering Detik News
+
+- This project use Machine Learning based on Natural Language Processing(text) dataset. This project I work together with Nathaniel Distianto and Kenny Dwi Cahya. This result use Google Colab notebook with the detail explanation of code and step-by-step with Bahasa Indonesia. 
+
+- Tools : Python, Google Colab, K-Means, Natural Language Processing
+- Output : [Clustering Detik News](https://colab.research.google.com/drive/1bPDQpS0gzu9mjfVgO4mk3nDP1HjvAHKq#scrollTo=_zB19ZJG3ZC5)
+
+# Numerical Method - Calculate trapezoidal and Simpson 1/3 Integral
+
+- This project was based on advanced mathematics (Numerical Method) in Tarumanagara University. I was task to solve of trapezoidal and Simposn 1/3 Integral. Python was good programming language to use to calculate based on Calculus calculation because it has much library from it. This python has 2 type of output which use .py format for the User Interface application with Tkinter and .ipynb with Jupyter Notebook for the sample output of calculating trapezoidal and Simpson 1/3 Integral.  
+
+- Tools : Python, Tkinter, Jupyter Notebook
+- Output : [Numerical Method Project](https://github.com/stevenkiryu/Numerical-Method-Metnum-)
 
   
 # Other Project 
 - Machine Learning (Python)                       - Batik Image Classification
 - Machine Learning (Python)                       - Clustering the News
-- Numerical Method (Python)                       - Calculate GUI app with to Calculate Simpson 1/3 Integral -> [Numerical Method Project](https://github.com/stevenkiryu/Numerical-Method-Metnum-)
 - Power Automate - Approval Purchase Order Automation from Dynamic 365 Finance & Operations 
 - Dynamic 365 Finance & Operations (X++ & SQL) - Fixing Manufacturing Allocation (Metindo)
 - Dynamic 365 Finance & Operations (X++ & SQL) - Sales Contract Report Versioning (Citatah)
